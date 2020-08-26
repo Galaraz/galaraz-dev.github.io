@@ -8,7 +8,7 @@
 
 notas ate aqui: 
 
-nao esta responsivo
-bug no redirecionamento com o video 
-falta descriçao dos itens 
-prometo estudar a extençao .md
+-nao esta responsivo
+-bug no redirecionamento com o video 
+-falta descriçao dos itens 
+-prometo estudar a extençao .md
