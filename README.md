@@ -1,4 +1,4 @@
-# galaraz-dev.github.io
+# Portifoleo interativo
 
 
 
@@ -11,6 +11,4 @@ notas ate aqui:
 -nao esta responsivo
 -bug no redirecionamento com o video 
 -falta descriçao dos itens 
--prometo estudar a extençao .md
-
 -layout tirado do curso de js da Origamid. 
