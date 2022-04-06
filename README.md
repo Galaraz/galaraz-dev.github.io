@@ -8,10 +8,5 @@
 
 notas ate aqui: 
 
-[ ] nao esta responsivo
-
-[ ] bug no redirecionamento com o video 
-
-[ ] falta descriçao dos itens 
 
 [x] layout tirado do curso de js da Origamid. 
