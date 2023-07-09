@@ -2,11 +2,9 @@
 
 
 
-:rocket:  como muita alegria que compartilho projeto portifoleo realizado em aula na trybe !!
+:rocket:  como muita alegria que compartilho projeto portifoleo !!
 
  link :https://galaraz.github.io/portifoleo/
 
 notas ate aqui: 
-
-
-[x] layout tirado do curso de js da Origamid. 
+esse resultado e uma mescla de um trabalho na tybe junto ao projeto final do curso de js da Origamid. 
